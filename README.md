@@ -4,13 +4,19 @@ Atom's iconic One Dark color scheme for DrRacket!
 
 ## Installation
 
-### Option 1: Command line
+### Option 1: Package Catalog
+
+```bash
+raco pkg install drracket-one-dark
+```
+
+### Option 2: Directly from GitHub
 
 ```bash
 raco pkg install https://github.com/JoaoBrlt/drracket-one-dark.git
 ```
 
-### Option 2: Package manager
+### Option 3: Package Manager
 
 1. Open DrRacket.
 
