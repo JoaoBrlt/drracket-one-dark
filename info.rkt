@@ -1,5 +1,9 @@
 #lang info
 
+;; Package metadata.
+(define version "1.0")
+(define deps '("base"))
+
 ;; One Dark Colors.
 (define black        #(40 44 52))
 (define white        #(187 187 187))
